@@ -1,0 +1,3 @@
+from httpd:trixie
+run useradd jagdishpatil
+run touch virat
